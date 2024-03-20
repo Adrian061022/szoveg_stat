@@ -24,12 +24,22 @@ namespace szoveg_stat
         
         }
 
-        static void Kiir(int a) {
+        static void Kiir(int a, int v) {
 
             Console.WriteLine($"A szöveg {a} szóbol áll");
+            Console.WriteLine(v);
         
         }
+        static string Vissza(string s) {
 
+            string vissza = "";
+            for (int i = s.Length-1; i >0,i--)
+            {
+                vissza += i;
+            }
+            return vissza;
+        
+        }
         static void Main(string[] args)
         {
             Console.WriteLine("Kérek egy mondatot");
@@ -37,6 +47,7 @@ namespace szoveg_stat
 
             int megszamolas = Megszamolas(mondat);
             Kiir(megszamolas);
+            string vissza = Vissza(mondat);
 
             Console.WriteLine("nyomj egy billentyűt");
             Console.ReadKey(true);
