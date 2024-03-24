@@ -5,3 +5,10 @@ C:\Users\1tc-maradr\Documents\GitHub\szoveg_stat\szoveg_stat\szoveg_stat\obj\Deb
 C:\Users\1tc-maradr\Documents\GitHub\szoveg_stat\szoveg_stat\szoveg_stat\obj\Debug\szoveg_stat.csproj.CoreCompileInputs.cache
 C:\Users\1tc-maradr\Documents\GitHub\szoveg_stat\szoveg_stat\szoveg_stat\obj\Debug\szoveg_stat.exe
 C:\Users\1tc-maradr\Documents\GitHub\szoveg_stat\szoveg_stat\szoveg_stat\obj\Debug\szoveg_stat.pdb
+C:\Users\User\Documents\GitHub\szoveg_stat\szoveg_stat\szoveg_stat\bin\Debug\szoveg_stat.exe.config
+C:\Users\User\Documents\GitHub\szoveg_stat\szoveg_stat\szoveg_stat\bin\Debug\szoveg_stat.exe
+C:\Users\User\Documents\GitHub\szoveg_stat\szoveg_stat\szoveg_stat\bin\Debug\szoveg_stat.pdb
+C:\Users\User\Documents\GitHub\szoveg_stat\szoveg_stat\szoveg_stat\obj\Debug\szoveg_stat.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\szoveg_stat\szoveg_stat\szoveg_stat\obj\Debug\szoveg_stat.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\szoveg_stat\szoveg_stat\szoveg_stat\obj\Debug\szoveg_stat.exe
+C:\Users\User\Documents\GitHub\szoveg_stat\szoveg_stat\szoveg_stat\obj\Debug\szoveg_stat.pdb
